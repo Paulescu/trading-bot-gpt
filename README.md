@@ -1,2 +1,11 @@
-## Build a real-time trading bot with OpenAI, real-time data and prompt experimentation
+<div align="center">
+    <a href='https://www.realworldml.xyz/'><img src='./images/logo_realworldml.png' width='350'></a>
+    <h1>Build a trading bot with OpenAI GPT-3.5, real-time data and prompt experimentations</h1>
+    <img src="images/diagram.jpg" width='450' />
+</div>
+
+<br>
+
+
+
 
