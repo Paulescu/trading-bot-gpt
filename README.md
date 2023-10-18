@@ -6,6 +6,16 @@
 
 <br>
 
+## TODOs
+
+- [ ] Build and run dataflow for technical indicators
+    
+
+- [ ] Build news summarization pipeline.
+    - [ ] Create online Feature Store
+    - [ ] `.env` file with credentials
+    - [ ] Copy working code.
+    - [ ] 
 
 
 
